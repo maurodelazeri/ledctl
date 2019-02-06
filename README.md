@@ -1,4 +1,4 @@
-# ledctl - LED device reporting and setting tool for Linux, written in golang.
+# ledctl - ledctl control LED status on drive backplanes
 
 # Requirements
 
